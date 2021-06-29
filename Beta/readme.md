@@ -2,8 +2,8 @@
 
 ## Beta Set Skills
 [Reset Skills to 0](Reset_All_Skills_To_Zero.razor)  
-[Mage Tamer](Set_Mage_Tamer_Skills.razor)
-[Archer Dexxer](Set_Dexxer_Archery_Skills.razor)
+[Mage Tamer](Set_Mage_Tamer_Skills.razor) 
+[Archer Dexxer](Set_Dexxer_Archery_Skills.razor) 
 
 ## References
 
